@@ -1,0 +1,23 @@
+{
+  "name": "cs648-assignment-5",
+  "version": "1.0.0",
+  "description": "Vecta Corp website converted from CSS to Sass with Gulp build system",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp watch",
+    "build": "gulp"
+  },
+  "keywords": [
+    "sass",
+    "gulp",
+    "css",
+    "responsive"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.69.5"
+  }
+}
