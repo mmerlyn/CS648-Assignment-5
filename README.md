@@ -33,24 +33,8 @@ This project is a refactored version of the Vecta Corp. website, converted from 
 - **Math Operations**: Used Sass math operators for dynamic calculations
 - **Media Queries**: Built a responsive breakpoint mixin for handling different screen sizes
 
-## Installation
+*This project demonstrates Sass/SCSS features including variables, mixins with parameters, nesting, math operations, @for loops, lists, the nth() function, parent selectors, partials with @import, and a responsive media query mixin.*
 
-```bash
-npm install
-```
-
-## Usage
-
-Compile Sass once:
-
-```bash
-gulp sass
-```
-
-Watch for changes and auto-compile:
-
-```bash
-gulp watch
-```
-
-Then open `index.html` in your browser.
+**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**University:** San Diego State University (SDSU)<br>
+**Author:** Merlyn Mercylona M
