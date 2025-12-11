@@ -1,5 +1,7 @@
 # Vecta Corp. Website - Sass Conversion
 
+_This project demonstrates Sass/SCSS features including variables, mixins with parameters, nesting, math operations, @for loops, lists, the nth() function, parent selectors, partials with @import, and a responsive media query mixin._
+
 ## Overview
 
 This project is a refactored version of the Vecta Corp. website, converted from plain CSS to Sass with a Gulp build workflow. The original HTML structure was maintained while implementing modern Sass features for better maintainability and organization.
@@ -33,7 +35,7 @@ This project is a refactored version of the Vecta Corp. website, converted from 
 - **Math Operations**: Used Sass math operators for dynamic calculations
 - **Media Queries**: Built a responsive breakpoint mixin for handling different screen sizes
 
-*This project demonstrates Sass/SCSS features including variables, mixins with parameters, nesting, math operations, @for loops, lists, the nth() function, parent selectors, partials with @import, and a responsive media query mixin.*
+---
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
 **University:** San Diego State University (SDSU)<br>
